@@ -22,8 +22,9 @@ Nossas frentes incluem:
 
 ## Recursos públicos
 
+- [InovaBot](https://inovabot.com.br): automação, integrações e implantação de agentes de IA.
+- [MultiIA](https://multiia.com.br): governança de IA, agentes, treinamentos e contato comercial.
 - [`skills_clientesMultiIA`](https://github.com/inovabotMultiIA/skills_clientesMultiIA): skills genéricas e sanitizadas para clientes e parceiros.
-- [MultiIA](https://multiia.com.br): produtos, agentes, treinamentos e contato comercial.
 
 ## Como trabalhamos
 
